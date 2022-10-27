@@ -5,7 +5,7 @@
 	<subtitle type="text"></subtitle>
 	<link rel="alternate" type="text/html" href="http://backup"/>
 	<id>http://backup/tiago/animacoes</id>
-	<updated>2022-10-27T14:14:31+00:00</updated>
+	<updated>2022-10-27T15:03:24+00:00</updated>
 	<author>
 		<name>Tiago Artes</name>
 	</author>
@@ -33,32 +33,30 @@
 		<author>
 			<name>Tiago EF</name>
 		</author>
-		<summary type="html">&lt;h2&gt;Algumas Animações que criei&lt;/h2&gt;
+		<summary type="html">&lt;h2 style=&quot;text-align: center;&quot;&gt;Algumas Animações que criei&lt;/h2&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Garota perfeita                                               Fênix                                                            O grande dia do casal                     &lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;video controls=&quot;controls&quot; width=&quot;300&quot; height=&quot;150&quot;&gt;
 &lt;source src=&quot;http://backup/tiago/images/videos/garotaperfeita.mp4&quot; type=&quot;video/mp4&quot; /&gt;&lt;/video&gt;  &lt;video controls=&quot;controls&quot; width=&quot;300&quot; height=&quot;150&quot;&gt;
-&lt;source src=&quot;http://backup/tiago/images/videos/tiagoferreirae - 283367972786arte.mp4&quot; type=&quot;video/mp4&quot; /&gt;&lt;/video&gt;  &lt;video controls=&quot;controls&quot; width=&quot;300&quot; height=&quot;150&quot;&gt;
-&lt;source src=&quot;http://backup/tiago/images/videos/AlgoPraTeContar.mp4&quot; type=&quot;video/mp4&quot; /&gt;&lt;/video&gt;  &lt;/p&gt;
+&lt;source src=&quot;http://backup/tiago/images/videos/tiagoferreirae - 283367972786arte.mp4&quot; type=&quot;video/mp4&quot; /&gt;&lt;/video&gt;    &lt;video controls=&quot;controls&quot; width=&quot;300&quot; height=&quot;150&quot;&gt;
+&lt;source src=&quot;http://backup/tiago/images/videos/Ograndediadocasal.mp4&quot; type=&quot;video/mp4&quot; /&gt;&lt;/video&gt;&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt; NuncaDurmaComRaivadeAlguem                  Algo pra te contar&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; NuncaDurmaComRaivadeAlguem                  &lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;video controls=&quot;controls&quot; width=&quot;300&quot; height=&quot;150&quot;&gt;
-&lt;source src=&quot;http://backup/tiago/images/videos/NuncaDurmaComRaivadeAlguem.mp4&quot; type=&quot;video/mp4&quot; /&gt;&lt;/video&gt;  &lt;video controls=&quot;controls&quot; width=&quot;300&quot; height=&quot;150&quot;&gt;
-&lt;source src=&quot;http://backup/tiago/images/videos/AlgoPraTeContar.mp4&quot; type=&quot;video/mp4&quot; /&gt;&lt;/video&gt;&lt;/p&gt;</summary>
-		<content type="html">&lt;h2&gt;Algumas Animações que criei&lt;/h2&gt;
+&lt;source src=&quot;http://backup/tiago/images/videos/NuncaDurmaComRaivadeAlguem.mp4&quot; type=&quot;video/mp4&quot; /&gt;&lt;/video&gt;  &lt;/p&gt;</summary>
+		<content type="html">&lt;h2 style=&quot;text-align: center;&quot;&gt;Algumas Animações que criei&lt;/h2&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Garota perfeita                                               Fênix                                                            O grande dia do casal                     &lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;video controls=&quot;controls&quot; width=&quot;300&quot; height=&quot;150&quot;&gt;
 &lt;source src=&quot;http://backup/tiago/images/videos/garotaperfeita.mp4&quot; type=&quot;video/mp4&quot; /&gt;&lt;/video&gt;  &lt;video controls=&quot;controls&quot; width=&quot;300&quot; height=&quot;150&quot;&gt;
-&lt;source src=&quot;http://backup/tiago/images/videos/tiagoferreirae - 283367972786arte.mp4&quot; type=&quot;video/mp4&quot; /&gt;&lt;/video&gt;  &lt;video controls=&quot;controls&quot; width=&quot;300&quot; height=&quot;150&quot;&gt;
-&lt;source src=&quot;http://backup/tiago/images/videos/AlgoPraTeContar.mp4&quot; type=&quot;video/mp4&quot; /&gt;&lt;/video&gt;  &lt;/p&gt;
+&lt;source src=&quot;http://backup/tiago/images/videos/tiagoferreirae - 283367972786arte.mp4&quot; type=&quot;video/mp4&quot; /&gt;&lt;/video&gt;    &lt;video controls=&quot;controls&quot; width=&quot;300&quot; height=&quot;150&quot;&gt;
+&lt;source src=&quot;http://backup/tiago/images/videos/Ograndediadocasal.mp4&quot; type=&quot;video/mp4&quot; /&gt;&lt;/video&gt;&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt; NuncaDurmaComRaivadeAlguem                  Algo pra te contar&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; NuncaDurmaComRaivadeAlguem                  &lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;video controls=&quot;controls&quot; width=&quot;300&quot; height=&quot;150&quot;&gt;
-&lt;source src=&quot;http://backup/tiago/images/videos/NuncaDurmaComRaivadeAlguem.mp4&quot; type=&quot;video/mp4&quot; /&gt;&lt;/video&gt;  &lt;video controls=&quot;controls&quot; width=&quot;300&quot; height=&quot;150&quot;&gt;
-&lt;source src=&quot;http://backup/tiago/images/videos/AlgoPraTeContar.mp4&quot; type=&quot;video/mp4&quot; /&gt;&lt;/video&gt;&lt;/p&gt;</content>
+&lt;source src=&quot;http://backup/tiago/images/videos/NuncaDurmaComRaivadeAlguem.mp4&quot; type=&quot;video/mp4&quot; /&gt;&lt;/video&gt;  &lt;/p&gt;</content>
 		<category term="Genérica" />
 	</entry>
 </feed>
