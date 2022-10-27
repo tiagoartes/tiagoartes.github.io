@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Currículo</title>
+		<description><![CDATA[]]></description>
+		<link>http://backup/tiago/curriculo?view=category&amp;id=2</link>
+		<lastBuildDate>Thu, 27 Oct 2022 14:14:31 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://backup/tiago/curriculo?view=category&amp;id=2&amp;format=feed&amp;type=rss"/>
+		<language>pt-br</language>
+		<item>
+			<title>Currículo</title>
+			<link>http://backup/tiago/curriculo</link>
+			<guid isPermaLink="true">http://backup/tiago/curriculo</guid>
+			<description><![CDATA[<p>Resumo do meu currículo</p>]]></description>
+			<category>Genérica</category>
+			<pubDate>Thu, 27 Oct 2022 16:12:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>Animações</title>
+			<link>http://backup/tiago/animacoes</link>
+			<guid isPermaLink="true">http://backup/tiago/animacoes</guid>
+			<description><![CDATA[<h2>Algumas Animações que criei</h2>
+<p> </p>
+<p> </p>
+<p><strong>Garota perfeita                                               Fênix                                                            O grande dia do casal                     <br /></strong></p>
+<p><video controls="controls" width="300" height="150">
+<source src="http://backup/tiago/images/videos/garotaperfeita.mp4" type="video/mp4" /></video>  <video controls="controls" width="300" height="150">
+<source src="http://backup/tiago/images/videos/tiagoferreirae - 283367972786arte.mp4" type="video/mp4" /></video>  <video controls="controls" width="300" height="150">
+<source src="http://backup/tiago/images/videos/AlgoPraTeContar.mp4" type="video/mp4" /></video>  </p>
+<p> </p>
+<p><strong> NuncaDurmaComRaivadeAlguem                  Algo pra te contar<br /></strong></p>
+<p><video controls="controls" width="300" height="150">
+<source src="http://backup/tiago/images/videos/NuncaDurmaComRaivadeAlguem.mp4" type="video/mp4" /></video>  <video controls="controls" width="300" height="150">
+<source src="http://backup/tiago/images/videos/AlgoPraTeContar.mp4" type="video/mp4" /></video></p>]]></description>
+			<category>Genérica</category>
+			<pubDate>Thu, 27 Oct 2022 15:55:58 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
